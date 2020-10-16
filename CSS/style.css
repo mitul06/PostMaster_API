@@ -1,0 +1,36 @@
+#responsePr{
+    max-height: 500px;
+}
+
+.jumbotron{
+    border-radius: 1.2rem;
+    border: 1px solid #ffcc00;
+    font-style: oblique;
+    background: url(../img/abstract-1278077_1920.jpg);
+    color:#ffcc00;
+    font-size: 1.2rem;
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+}
+
+#header{
+    padding: 1rem;
+}
+
+#urlField, #requestJsonText, #ParameterKey1, #ParameterValue1, #addParam{
+    border: 1px solid #ffcc00;
+    border-radius: 1.2rem;
+}
+
+#submit{
+    border-radius: 0.7rem;
+    border: 1px solid #ffcc00;
+    color:#bf150f;
+}
+
+body{
+    background: url(../img/matrix-2354492_1280.jpg) fixed;
+}
